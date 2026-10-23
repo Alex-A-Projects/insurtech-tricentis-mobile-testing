@@ -98,7 +98,7 @@ real iOS Simulator and Android Emulator sessions.
 ## Project Structure
 
 ```
-InsurTech-Tricentis-mobile-testing/
+insurtech-tricentis-mobile-testing/
 ├── pages/
 │   ├── base/
 │   │   └── BasePage.ts                       # Wraps WebdriverIO.Browser, idealforms helpers

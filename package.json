@@ -1,5 +1,5 @@
 {
-  "name": "insurtech-tricentis-mobile-web-wdio",
+  "name": "insurtech-tricentis-mobile-testing",
   "version": "1.0.0",
   "description": "Mobile-web test automation framework for the Tricentis Vehicle Insurance Sample App. WebdriverIO + Appium 2, real-device targeting Safari on iOS Simulator (XCUITest) and Chrome on Android Emulator (UiAutomator2).",
   "private": true,
